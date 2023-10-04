@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exampleStaticMock.CalculatorAdvancedStaticMockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-04T20:35:20" hostname="MATEOBOSS" time="0.967">
+  <properties/>
+  <testcase name="verifyFactorial()" classname="exampleStaticMock.CalculatorAdvancedStaticMockTest" time="0.967"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
